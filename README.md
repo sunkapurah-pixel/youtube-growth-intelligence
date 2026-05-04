@@ -1,4 +1,4 @@
-##YouTube Growth Intelligence
+YouTube Growth Intelligence
 
 AI-powered YouTube analytics platform for real-time insights, performance tracking, and data-driven growth recommendations.
 YouTube Growth Analyzer (YTA) is a smart analytics tool that helps creators understand why their videos perform well or poorly and provides actionable strategies to improve channel growth.
