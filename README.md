@@ -88,13 +88,14 @@ Users can enter:
 
 
 ##The system evaluates:
-
 -Views per video
 -Likes vs Views
 -Engagement rate
 -Best and worst-performing videos
 -Helps creators understand what works and what doesn’t
 
+
 ##Conclusion
+
  The YouTube Growth Analyzer transforms complex data into actionable insights by leveraging real-    time analytics, interactive visualizations, and AI-powered recommendations, enabling creators to    informed decisions, optimize content strategies, improve audience engagement, and achieve   sustainable and consistent channel growth.
 
