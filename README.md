@@ -77,11 +77,14 @@ A calculated score based on:
 
 ## Smart Input System
 Users can enter:
+
 -Channel ID
+
 -Channel Name
 
 ## The system automatically fetches:
 -Real-time data from the API
+
 -Simple and user-friendly
 
 
