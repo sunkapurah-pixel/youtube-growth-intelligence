@@ -48,20 +48,26 @@ The dashboard provides clear and visual insights:
 The intelligent system analyzes:
 
 -Top-performing videos
+
 -Patterns in titles, tags, and views
 
 Provides Suggestions:
 
 -Best content ideas
+
 -Posting strategies
+
 -Performance improvement tips
 
      
  ## Channel Health Score
 A calculated score based on:
 -Views
+
 -Likes
+
 -Engagement
+
 -Upload consistency
 
 ## Interpretation:
