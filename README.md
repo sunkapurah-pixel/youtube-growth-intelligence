@@ -49,31 +49,32 @@ The intelligent system analyzes:
 
 -Top-performing videos
 -Patterns in titles, tags, and views
-**Provides Suggestions:
+
+Provides Suggestions:
+
 -Best content ideas
 -Posting strategies
 -Performance improvement tips
 
      
- ##Channel Health Score
+ ## Channel Health Score
 A calculated score based on:
-
 -Views
 -Likes
 -Engagement
 -Upload consistency
 
-**Interpretation:
+## Interpretation:
 -High Score → Strong growth
 -Low Score → Needs improvement
 
 
-##Smart Input System
+## Smart Input System
 Users can enter:
 -Channel ID
 -Channel Name
 
-**The system automatically fetches:
+## The system automatically fetches:
 -Real-time data from the API
 -Simple and user-friendly
 
